@@ -17,3 +17,5 @@ O resultado esperado é parecido com este:
 ## Bons estudos!
 
 Não esqueça de publicar a sua versão do projeto no seu Github também! :smile:
+
+## 🚀 Let's code! 🚀
